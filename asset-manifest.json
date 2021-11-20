@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Random-Qoute-Generator-in-React/static/css/main.6e281a6e.chunk.css",
+    "main.js": "/Random-Qoute-Generator-in-React/static/js/main.6899fadf.chunk.js",
+    "main.js.map": "/Random-Qoute-Generator-in-React/static/js/main.6899fadf.chunk.js.map",
+    "runtime-main.js": "/Random-Qoute-Generator-in-React/static/js/runtime-main.c196be3a.js",
+    "runtime-main.js.map": "/Random-Qoute-Generator-in-React/static/js/runtime-main.c196be3a.js.map",
+    "static/js/2.e4c2dff2.chunk.js": "/Random-Qoute-Generator-in-React/static/js/2.e4c2dff2.chunk.js",
+    "static/js/2.e4c2dff2.chunk.js.map": "/Random-Qoute-Generator-in-React/static/js/2.e4c2dff2.chunk.js.map",
+    "index.html": "/Random-Qoute-Generator-in-React/index.html",
+    "static/css/main.6e281a6e.chunk.css.map": "/Random-Qoute-Generator-in-React/static/css/main.6e281a6e.chunk.css.map",
+    "static/js/2.e4c2dff2.chunk.js.LICENSE.txt": "/Random-Qoute-Generator-in-React/static/js/2.e4c2dff2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c196be3a.js",
+    "static/js/2.e4c2dff2.chunk.js",
+    "static/css/main.6e281a6e.chunk.css",
+    "static/js/main.6899fadf.chunk.js"
+  ]
+}
