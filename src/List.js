@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import Data from "./Data"
 
 const List = () => {
   const [state, setstate] = useState(0);
